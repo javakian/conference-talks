@@ -8,6 +8,6 @@
     "email": ""
   },
   "dependencies": {
-    "restify": "^3.0.3"
+    "restify": "^10.0.0"
   }
 }
